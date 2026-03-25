@@ -1,8 +1,8 @@
 # Hi 👋, I'm Richard Lamb
 
-### I'm a Computer Engineering and Computer Science student at the University of Wisconsin
+### A highly-involved, hard working and dependable student at the University of Wisconsin-Madison with prior internship experience in engineering. Seeking internship opportunities in computer hardware or software for Summer, 2026.
 
-- 📝 I regularly write articles on **[https://richardlamb.dev/](https://richardlamb.dev/)**
+- 🌐 Check out my website: **[https://richardlamb.dev/](https://richardlamb.dev/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
