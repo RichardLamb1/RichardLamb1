@@ -1,6 +1,6 @@
 # 👋 Welcome to Richard Lamb's GitHub Profile
 
-I'm a **Computer Science and Engineering student** at the **University of Wisconsin**, passionate about software development, embedded systems, and hardware innovation. Always eager to learn, build, and collaborate on exciting projects. **Seeking full-time employment after graduation in May, 2027.**
+I'm a **Computer Science and Engineering student** at the **University of Wisconsin**, passionate about software development, embedded systems, and hardware innovation. Always eager to learn, build, and collaborate on exciting projects.
 
 ---
 
