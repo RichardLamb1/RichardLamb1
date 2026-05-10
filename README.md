@@ -78,6 +78,6 @@ I'm a **Computer Science and Engineering student** at the **University of Wiscon
 
 <div align="center">
 
-**Feel free to explore my repositories and [reach out](). Let's build something amazing together!** ✨
+**Feel free to explore my repositories and [reach out](https://richardlamb.dev/contact). Let's build something amazing together!** ✨
 
 </div>
