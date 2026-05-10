@@ -1,14 +1,81 @@
-# Hi 👋, I'm Richard Lamb
+# 👋 Welcome to Richard Lamb's GitHub Profile
 
-### A highly-involved, hard working and dependable student at the University of Wisconsin-Madison with prior internship experience in engineering. Seeking internship opportunities in computer hardware or software for Summer, 2026.
+I'm a **Computer Science and Engineering student** at the **University of Wisconsin**, passionate about software development, embedded systems, and hardware innovation. Always eager to learn, build, and collaborate on exciting projects.
 
-- 🌐 Check out my website: **[https://richardlamb.dev/](https://richardlamb.dev/)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/RichardLamb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RichardLamb1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/richard-lamb-137698386/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Richard Lamb on LinkedIn" height="30" width="40" /></a>
-</p>
+## 🔗 Connect with Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jekyll" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a></p>
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-richardlamb.dev-blue?style=flat-square&logo=globe)](https://richardlamb.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richard%20Lamb-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/richard-lamb-137698386/)
+
+</div>
+
+---
+
+## 🛠️ Skills & Languages
+
+### Languages & Development
+<div>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/MATLAB-0071C5?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+<img src="https://img.shields.io/badge/SystemVerilog-FF6B35?style=flat-square&logoColor=white" alt="SystemVerilog" />
+</div>
+
+### Web & Frontend
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+</div>
+
+### Tools & Platforms
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+</div>
+
+### Hardware & Electronics
+<div>
+<img src="https://img.shields.io/badge/3D%20Printing-FF6B35?style=flat-square&logoColor=white" alt="3D Printing" />
+<img src="https://img.shields.io/badge/Soldering-C41E3A?style=flat-square&logoColor=white" alt="Soldering" />
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RichardLamb1&show_icons=true&theme=nord&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardLamb1&layout=compact&theme=nord)
+
+</div>
+
+---
+
+## 💡 About Me
+
+- 🎓 **CS & Engineering Student** at University of Wisconsin
+- 💻 Interested in full-stack development, embedded systems, and hardware design
+- 🔧 Hands-on experience with hardware projects (3D printing, soldering, FPGAs)
+- 📚 Continuously learning new technologies and best practices
+- 🤝 Open to collaboration and exciting projects
+
+---
+
+<div align="center">
+
+**Feel free to explore my repositories and reach out. Let's build something amazing together!** ✨
+
+</div>
